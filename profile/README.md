@@ -16,9 +16,9 @@ This is LCM-Lab, a research team under [OpenNLG Group](https://opennlg.cn/) focu
 ### 🔹 Long-Context Modeling
 1. **CDT (Context Denoising Training)**  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/context-denoising-training) [![arXiv](https://img.shields.io/badge/arXiv-2510.05862-B31B1B?logo=arxiv)](https://arxiv.org/abs/2510.05862)
 
-2. **LOGO**: Long cOntext aliGnment via efficient preference Optimization  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/LOGO) [![arXiv](https://img.shields.io/badge/arXiv-2410.18533-B31B1B?logo=arxiv)](https://arxiv.org/abs/2410.18533)
+2. **LOGO** (ICML 2025): Long cOntext aliGnment via efficient preference Optimization  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/LOGO) [![arXiv](https://img.shields.io/badge/arXiv-2410.18533-B31B1B?logo=arxiv)](https://arxiv.org/abs/2410.18533)
 
-3. **Global-Mamba**: Efficient long-context modeling architecture  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/Global_Mamba)  [![arXiv](https://img.shields.io/badge/arXiv-2410.15678-B31B1B?logo=arxiv)](https://arxiv.org/abs/2410.15678)
+3. **Global-Mamba** (ACL 2025): Efficient long-context modeling architecture  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/Global_Mamba)  [![arXiv](https://img.shields.io/badge/arXiv-2410.15678-B31B1B?logo=arxiv)](https://arxiv.org/abs/2410.15678)
 
 ---
 
