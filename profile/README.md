@@ -4,7 +4,7 @@ This is LCM-Lab, a research team under [OpenNLG Group](https://opennlg.cn/) focu
 
 ---
 
-### 🔹 Long-Context Reward Modeling
+### 🔹 Long-Context Reward
 1. **LongRM**: Pushing the limits of reward modeling beyond 128K tokens [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/LongRM)  [![arXiv](https://img.shields.io/badge/arXiv-2510.06915-B31B1B?logo=arxiv)](https://arxiv.org/abs/2510.06915)
 
 ### 🔹 Long-Context Evaluation
