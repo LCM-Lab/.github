@@ -16,9 +16,9 @@ This is LCM-Lab, a research team under [OpenNLG Group](https://opennlg.cn/) focu
 ### 🔹 Long-Context Modeling
 1. **CDT (Context Denoising Training)**  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/context-denoising-training) [![arXiv](https://img.shields.io/badge/arXiv-2510.05862-B31B1B?logo=arxiv)](https://arxiv.org/abs/2510.05862)
 
-2. **LOGO** (ICML 2025): Long cOntext aliGnment via efficient preference Optimization  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/LOGO) [![arXiv](https://img.shields.io/badge/arXiv-2410.18533-B31B1B?logo=arxiv)](https://arxiv.org/abs/2410.18533)
+2. **LOGO** (ICML 2025): Long cOntext aliGnment via efficient preference Optimization  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/LOGO) [![ICML](https://img.shields.io/badge/ICML-2025-<color>?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyLDEyYTEwLDEwIDAgMSwwIDAsMTAgMTAsMTAgMCAwLDAtMTB6Ii8+PHBhdGggZmlsbD0iIzAwMCIgZD0iTTEyLDExLjVhLjUsLjUgMCAwLDEgLjUsLjV2MWgtMXYtMS41eiIvPjwvc3ZnPg==)](https://openreview.net/pdf?id=vVEBtDDSA6)
 
-3. **Global-Mamba** (ACL 2025): Efficient long-context modeling architecture  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/Global_Mamba)  [![arXiv](https://img.shields.io/badge/arXiv-2410.15678-B31B1B?logo=arxiv)](https://arxiv.org/abs/2410.15678)
+3. **Global-Mamba** (ACL 2025): Efficient long-context modeling architecture  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/Global_Mamba)  [![ACL Anthology](https://img.shields.io/badge/ACL-2025-4BA64B?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDEzLjVhMS41IDEuNSAwIDAgMCAxLjUtMS41IDEuNSAxLjUgMCAwIDAtMS41LTEuNSAxLjUgMS41IDAgMCAwLTEuNSAxLjUgMS41IDEuNSAwIDAgMCAxLjUgMS41em0wLTkuN2E5LjcgOS43IDAgMCAxIDkuNyA5LjcgOS43IDkuNyAwIDAgMS05LjcgOS43IDkuNyA5LjcgMCAwIDEtOS43LTkuNyA5LjcgOS43IDAgMCAxIDkuNy05Ljd6Ii8+PC9zdmc+)](https://aclanthology.org/2025.findings-acl.629.pdf)
 
 ---
 
