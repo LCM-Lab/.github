@@ -7,6 +7,8 @@ This is LCM-Lab, an open-source research team within the [OpenNLG Group](https:/
 ### 🔹 Long-Context Reward
 1. **LongRM**: Pushing the limits of reward modeling beyond 128K tokens [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/LongRM)  [![arXiv](https://img.shields.io/badge/arXiv-2510.06915-B31B1B?logo=arxiv)](https://arxiv.org/abs/2510.06915)
 
+2. **MemoryRewardBench**: Benchmarking Reward Models for Long-Term Memory Management in Large Language Models [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/MemRewardBench)  [![arXiv](https://img.shields.io/badge/arXiv-2601.11969-B31B1B?logo=arxiv)](https://arxiv.org/abs/2601.11969)
+
 ### 🔹 Long-Context Evaluation
 1. **LOOM-Eval**: A comprehensive and efficient framework for long-context model evaluation  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/LOOM-Eval)  [![arXiv](https://img.shields.io/badge/arXiv-2507.04723-B31B1B?logo=arxiv)](https://arxiv.org/abs/2507.04723)
 
