@@ -2,6 +2,8 @@
 
 This is LCM-Lab, an open-source research team within the [OpenNLG Group](https://opennlg.cn/) that focuses on long-context modeling and optimization. Below is a list of our work—please feel free to explore!
 
+If you have any questions about the code or paper details, please don’t hesitate to open an issue or contact this email [zecheng.tang@foxmail.com](zecheng.tang@foxmail.com).
+
 ---
 
 ### 🔹 Long-Context Reward
@@ -24,8 +26,6 @@ This is LCM-Lab, an open-source research team within the [OpenNLG Group](https:/
 3. **Global-Mamba** (ACL 2025): Efficient long-context modeling architecture  [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/Global_Mamba)  [![ACL Anthology](https://img.shields.io/badge/ACL-2025-4BA64B?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDEzLjVhMS41IDEuNSAwIDAgMCAxLjUtMS41IDEuNSAxLjUgMCAwIDAtMS41LTEuNSAxLjUgMS41IDAgMCAwLTEuNSAxLjUgMS41IDEuNSAwIDAgMCAxLjUgMS41em0wLTkuN2E5LjcgOS43IDAgMCAxIDkuNyA5LjcgOS43IDkuNyAwIDAgMS05LjcgOS43IDkuNyA5LjcgMCAwIDEtOS43LTkuNyA5LjcgOS43IDAgMCAxIDkuNy05Ljd6Ii8+PC9zdmc+)](https://aclanthology.org/2025.findings-acl.629.pdf)
 
 ---
-
-If you have any questions about the code or paper details, please don’t hesitate to open an issue or contact us directly at zecheng.tang@foxmail.com .
 
 <!--
 
