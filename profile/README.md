@@ -31,7 +31,7 @@ _Keyan Zhou, Zecheng Tang, Lingfeng Ming, Guanghao Zhou, Qiguang Chen, Dan Qiao,
 ### 🔹 Long Sequence Modeling & Aligning
 - **Elastic Attention**: Test-time Adaptive Sparsity Ratios for Efficient Transformers <br>
 _Zecheng Tang, Quantong Qiu, Yi Yang, Zhiyi Hong, Haiya Xiang, Kebin Liu, Qingqing Dang, Juntao Li, Min Zhang._ <br>
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/Elastic-Attention) [![arXiv](https://img.shields.io/badge/arXiv-2510.05862-B31B1B?logo=arxiv)](https://arxiv.org/abs/2510.05862)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/LCM-Lab/Elastic-Attention) [![ICML](https://img.shields.io/badge/ICLR-2026-<color>?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyLDEyYTEwLDEwIDAgMSwwIDAsMTAgMTAsMTAgMCAwLDAtMTB6Ii8+PHBhdGggZmlsbD0iIzAwMCIgZD0iTTEyLDExLjVhLjUsLjUgMCAwLDEgLjUsLjV2MWgtMXYtMS41eiIvPjwvc3ZnPg==)]([https://openreview.net/pdf?id=xvGyyh6MG7](https://arxiv.org/pdf/2601.17367))
 
 - **CDT** (ICLR 2026): Context Denoising Training for Long-Context Modeling <br>
 _Zecheng Tang, Baibei Ji, Juntao Li, Lijun Wu, Haijia Gui, Min Zhang._ <br>
